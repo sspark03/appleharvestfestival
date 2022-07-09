@@ -1,3 +1,1 @@
-# Project 3
-
-**Submission Instructions:** Stage, commit, and push your changed files. Then complete the submission form: <https://cornell.ca1.qualtrics.com/jfe/form/SV_8wcADWfpfPjrbYG>
+This site features four web page with interactive featuers such as a carousel & button. This respitory does not contain image files. 
